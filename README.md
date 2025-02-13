@@ -1,4 +1,4 @@
-# Lessons-Projects
+# Course Project
 
 This repository contains sample codes and brief summaries of the projects we have done within the scope of Artificial Neural Networks course.
 
