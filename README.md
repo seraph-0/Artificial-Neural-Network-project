@@ -1,6 +1,6 @@
 # Lessons-Projects
 
-This repository contains sample codes and brief summaries of the projects we have done within the scope of Knowledge Engineering, Data Mining and Artificial Neural Networks courses.
+This repository contains sample codes and brief summaries of the projects we have done within the scope of Artificial Neural Networks course.
 
 Fluttersight: This project creates and trains a CNN model to classify butterfly images. The dataset is downloaded from Kaggle, visualized, and missing data is processed. Images are divided into four regions, features are extracted, training/validation sets are created, and data augmentation techniques are applied. 3 convolutional CNN models are trained to classify 75 butterfly species and the accuracy metric is evaluated.
 
